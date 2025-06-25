@@ -39,11 +39,11 @@ const Hero = () => {
 
           {/* Hero Text */}
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-white via-blue-100 to-emerald-100 bg-clip-text text-transparent animate-fade-in">
-            John Developer
+            Sankha Subhra Das
           </h1>
           
           <p className="text-xl md:text-2xl text-slate-300 mb-4 animate-fade-in-delay">
-            Full-Stack Developer & UI/UX Designer
+            Full-Stack Developer 
           </p>
           
           <p className="text-lg text-slate-400 mb-8 max-w-2xl mx-auto animate-fade-in-delay-2">
